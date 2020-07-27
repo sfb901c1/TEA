@@ -22,7 +22,6 @@ To achieve the provably high security, the anonymous communication system requir
   * use cmake to build (or "docker build .")
   * run login_server (the login server)
   * start 81 clients
-  * use the client\_interface binary for user input to the clients (generate_pseudonym, etc.)
 
 ### Known Limitations:
   * currently hardcoded for n = 81 nodes (overlay network with 8 (quorum) nodes, i.e., dimension 3)
@@ -33,5 +32,4 @@ To achieve the provably high security, the anonymous communication system requir
   * libcurlpp-dev
   * libjsoncpp-dev
   * libzmq3-dev
-  * for the GUI: qtbase5-dev
   * for the visualization: python3, python3-tk, python3-waitress (+ via pip: falcon, ujson, numpy, matplotlib)
