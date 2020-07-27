@@ -1,0 +1,6 @@
+**/.git
+visualization
+*.sh
+*.md
+Dockerfile
+.gitignore
