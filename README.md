@@ -1,5 +1,5 @@
 This is the prototype of an anonymous communication system.
-Most of the functioning of this software cannot be understood without the explanations given in the corresponding paper (not yet published).
+What exactly this software is doing is not supposed to be understood without the explanations given in the corresponding paper (not yet published).
 
 ### Abstract:
 TEA is a prototype instance of a provably secure anonymous communication system. 
